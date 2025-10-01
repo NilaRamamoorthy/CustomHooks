@@ -27,8 +27,8 @@ import MediaQueryDemo1 from "./components/MediaQueryDemo1";
 import MediaQueryDemo2 from "./components/MediaQueryDemo2";
 import OnlineStatusDemo1 from "./components/OnlineStatusDemo1";
 import OnlineStatusDemo2 from "./components/OnlineStatusDemo2";
-import GeolocationDemo1 from "./components/GeolocationDemo1";
-import GeolocationDemo2 from "./components/GeolocationDemo2";
+import GeolocationDemo1 from "./components/GeoLocationDemo1";
+import GeolocationDemo2 from "./components/GeoLocationDemo2";
 import ThemeDemo1 from "./components/ThemeDemo1";
 import ThemeDemo2 from "./components/ThemeDemo2";
 
